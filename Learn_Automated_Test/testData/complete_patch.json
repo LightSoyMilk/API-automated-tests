@@ -1,0 +1,11 @@
+{
+    "firstname" : "Yorushika",
+    "lastname" : "Doe",
+    "totalprice" : 2020,
+    "depositpaid" : false,
+    "bookingdates" : {
+        "checkin" : "2025-01-01",
+        "checkout" : "2026-01-01"
+    },
+    "additionalneeds" : "Coffee"
+}

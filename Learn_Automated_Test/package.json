@@ -1,0 +1,21 @@
+{
+  "name": "mocktestcases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@cucumber/cucumber": "^13.0.0",
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^25.9.3"
+  },
+  "dependencies": {
+    "lodash": "^4.18.1"
+  }
+}

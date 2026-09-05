@@ -1,0 +1,11 @@
+{
+    "firstname" : "Nina",
+    "lastname" : "Jirachi",
+    "totalprice" : 4562,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2027-01-01",
+        "checkout" : "2028-01-01"
+    },
+    "additionalneeds" : "Ipod Touch"
+}
